@@ -1,0 +1,34 @@
+{
+  "TODOS": [
+    {
+      "id": "1f1eac-54fb-2c0d-c57-05d04b4e6e0",
+      "title": "Sleep",
+      "description": "try to sleep for sometime",
+      "status": "completed"
+    },
+    {
+      "id": "83a0742-d05-5ab5-f4ac-ba3361be00a7",
+      "title": "work",
+      "description": "be productive",
+      "status": "completed"
+    },
+    {
+      "id": "dfcd1cd-8e22-72d8-6414-df5ec80c4c85",
+      "title": "dinner",
+      "description": "make something edible",
+      "status": "completed"
+    },
+    {
+      "id": "4b45c20-e16b-a1c-6a4c-7401df2af821",
+      "title": "entertainment",
+      "description": "let make things move",
+      "status": "completed"
+    },
+    {
+      "id": "bc2a7f2-180-ab42-d0d6-f40f1014d",
+      "title": "HKBUI",
+      "description": "IHBIU",
+      "status": "not started"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+
+export const actions={
+    ADD_ITEM:'ADD_ITEM',
+    REMOVE_ITEM:'REMOVE_ITEM',
+    CLEAR_ALL:'CLEAR_ALL',
+    FETCH_ALL:'FETCH_ALL',
+    MARK_COMPLETE:'MARK_COMPLETE',
+
+    FETCH:'FETCH',
+    ADD:'ADD',
+    REMOVE:'REMOVE',
+    CLEAR:'CLEAR',
+    COMPLETE:'COMPLETE'
+}
