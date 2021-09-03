@@ -1,7 +1,6 @@
 import React, { useEffect } from "react";
 import { useSelector, useDispatch } from "react-redux";
 import { actions } from "../Reducer/ActionConstants";
-
 import Footer from "../sharedui/Footer";
 import Header from "../sharedui/Header";
 import InputForm from "./InputForm";
